@@ -34,10 +34,10 @@ The chatbot supports the following types of user queries:
 ## Screenshots
 
 **Product Query Result**  
-![Product Screenshot](app/resources/product-ss.png)
+![Product Screenshot](product-ss.png)
 
 **Architecture Diagram**  
-![Architecture Diagram](app/resources/architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ## Setup & Execution
 
