@@ -1,0 +1,18 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+
+# Vector Databases
+chroma/
+chroma2/
+
+# Logs and outputs
+*.log
+err.txt
+error.txt
+output.txt
+python_error.txt
+
+# VSCode
+.vscode/
